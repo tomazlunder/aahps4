@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578038718652.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "56A83ADF",
+    "lastKnownWriteTime" : 1578041746,
+    "last_content_update" : 1578041746561,
+    "path" : "C:/Projects/rstudio/aahps4/subset_generator.R",
+    "project_path" : "subset_generator.R",
+    "properties" : {
+        "cursorPosition" : "33,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

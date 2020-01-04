@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578038961902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4D454D7A",
+    "lastKnownWriteTime" : 1578048020,
+    "last_content_update" : 1578048020626,
+    "path" : "C:/Projects/rstudio/aahps4/greedy.R",
+    "project_path" : "greedy.R",
+    "properties" : {
+        "cursorPosition" : "37,27",
+        "scrollLine" : "22",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

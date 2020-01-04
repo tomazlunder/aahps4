@@ -1,0 +1,36 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 46,
+                "editor_state" : 1,
+                "function_name" : "scpGreedy",
+                "function_steps" : "7,2",
+                "id" : 11,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 46,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "C:/Projects/rstudio/aahps4/greedy.R",
+                "state" : 1,
+                "type" : 0
+            },
+            {
+                "editor_line_number" : 18,
+                "editor_state" : 1,
+                "function_name" : "scpGreedy",
+                "function_steps" : "6,3,3,2",
+                "id" : 14,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : true,
+                "line_number" : 18,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "C:/Projects/rstudio/aahps4/greedy.R",
+                "state" : 1,
+                "type" : 0
+            }
+        ]
+    }
+}
